@@ -32,9 +32,9 @@ Products Section
 
 ![image](https://github.com/user-attachments/assets/86ae57e5-f289-486d-8804-8549bafaea52)
 
-Cart
+Cart Page
 
 ![image](https://github.com/user-attachments/assets/74e7f328-d20f-448b-a2f9-dafe4849fa76)
 
-Login
+Login Pop-up
 
