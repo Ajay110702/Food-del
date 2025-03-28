@@ -24,3 +24,18 @@ Screenshots:-
 
 ![image](https://github.com/user-attachments/assets/8a100e4e-0813-4d25-b73c-e33560fa6fd0)
 
+Home Section
+
+![image](https://github.com/user-attachments/assets/79d4bf28-8591-42ac-b04a-5a6cf7399264)
+
+Products Section
+
+![image](https://github.com/user-attachments/assets/86ae57e5-f289-486d-8804-8549bafaea52)
+
+Cart
+![image](https://github.com/user-attachments/assets/fe0e93e4-37d0-4383-b68b-b88cbb6030e4)
+
+
+Cart Page
+Login
+
