@@ -4,7 +4,7 @@ import React, {  useContext } from 'react'
 import './FoodItem.css';
 import { assets } from '../../assets/assets';
 import { StoreContext } from '../../context/StoreContext';
-const FoodItem = ({id,name,price,description,image}) => {
+const FoodItem = ({id,name,price,description,image,category}) => {
   const{cartItems,addToCart,removeFromCart,url}=useContext(StoreContext);
  
   return (
@@ -31,6 +31,9 @@ const FoodItem = ({id,name,price,description,image}) => {
       {description}    </p>
       <p className="food-item-price">
         ${price}
+      </p>
+      <p className="food-item-category">
+        {category}
       </p>
   </div>
     </div>
