@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React, { useContext } from 'react'
 import './Cart.css';
-import {StoreContext} from '../../components/context/StoreContext.jsx'
+import {StoreContext} from '../../context/StoreContext.jsx'
 import { useNavigate } from 'react-router-dom';
 const Cart = () => {
 
