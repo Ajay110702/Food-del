@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 // eslint-disable-next-line no-unused-vars
 import React, { useContext, useEffect, useState } from 'react'
 import './MyOrders.css'
