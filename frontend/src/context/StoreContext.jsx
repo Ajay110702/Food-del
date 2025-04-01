@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 /* eslint-disable react/prop-types */
 import axios from "axios";
 import { createContext, useEffect, useState } from "react";
@@ -47,6 +46,7 @@ const StoreContextProvider = (props) => {
         const response = await axios.get(url+"/api/food/list");
         setFoodList(response.data.data)
     }
+   
 
     const loadCartData = async (token) => {
         const response = await axios.post(url+"/api/cart/get",{},{headers:{token}});
