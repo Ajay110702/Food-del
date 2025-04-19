@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Food-del
 =======
 Tomato is a full-stack food delivery platform, enabling users to browse restaurants, place orders and track deliveries.
->>>>>>> ff7a6b0 (Create README.md)
-=======
-=======
->>>>>>> 8bfdef0d10f52b1e10fe2bca4fd004f6c2c24bb5
 TOMATO - Food Ordering Website
 This repository hosts the source code for TOMATO, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
