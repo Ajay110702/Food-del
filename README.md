@@ -1,8 +1,8 @@
 
 # Food-del
-Tomato is a full-stack food delivery platform, enabling users to browse restaurants, place orders and track deliveries.
-TOMATO - Food Ordering Website
-This repository hosts the source code for TOMATO, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
+FastFeast is a full-stack food delivery platform, enabling users to browse restaurants, place orders and track deliveries.
+FastFeast - Food Ordering Website
+This repository hosts the source code for FastFeast, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
 
 Features:-
