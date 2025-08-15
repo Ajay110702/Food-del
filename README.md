@@ -25,29 +25,23 @@ Features:-
 
 Screenshots:-
 
-![image](https://github.com/user-attachments/assets/8a100e4e-0813-4d25-b73c-e33560fa6fd0)
+<img width="1645" height="909" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/899dbdb2-e630-48d6-bd6c-64878b6d4cf5" />
 
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> e97192f (Update README.md)
-=======
-=======
->>>>>>> 8bfdef0d10f52b1e10fe2bca4fd004f6c2c24bb5
+
 Home Section
 
-![image](https://github.com/user-attachments/assets/79d4bf28-8591-42ac-b04a-5a6cf7399264)
+<img width="1890" height="905" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/b0ad04d5-9d58-48c8-a235-b06cfe9b7605" />
+
 
 Products Section
 
-![image](https://github.com/user-attachments/assets/86ae57e5-f289-486d-8804-8549bafaea52)
+<img width="1894" height="908" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/53c5aa44-0a11-46c0-ab2f-346f8d025cc7" />
+
 
 Cart Page
 
-![image](https://github.com/user-attachments/assets/74e7f328-d20f-448b-a2f9-dafe4849fa76)
+<img width="1886" height="916" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/d2c6e05e-261b-4036-920d-4095de8af2bc" />
 
 Login Pop-up
 
-<<<<<<< HEAD
->>>>>>> 67d20e3 (Update README.md)
-=======
->>>>>>> 8bfdef0d10f52b1e10fe2bca4fd004f6c2c24bb5
+
