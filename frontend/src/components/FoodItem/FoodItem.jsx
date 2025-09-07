@@ -8,7 +8,7 @@ const FoodItem = ({id,name,price,description,image,category}) => {
   const{cartItems,addToCart,removeFromCart,url}=useContext(StoreContext);
  
   return (
-    <div className='food-item' >
+    <div className='fcommiood-item' >
   <div className="food-item-img-container">
     <img className='food-item-image' src={url+"/images/"+image} alt="" />
   { !cartItems[id]
