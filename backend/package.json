@@ -25,13 +25,9 @@
   },
   "engines": {
     "node": "18.20.8"
-  },
-  
-  "overrides": {
-    "express": {
-      "qs": "^6.10.0"
-    }
   }
+  
+
 
 
 
