@@ -8,11 +8,8 @@ const stripe=new Stripe(process.env.STRIPE_SECRET_KEY);
 //placing user order from frontend
 
 const placeOrder=async(req,res)=>{
-<<<<<<< HEAD
+
     const frontend_url="https://food-del-frontend-ey75.onrender.com/";
-=======
-    const frontend_url="https://food-del-backend-5azc.onrender.com";
->>>>>>> f07884c (Fix transient dependency versions for Render)
 try {
     const newOrder=new orderModel({
         userId:req.body.userId,
